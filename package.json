@@ -1,5 +1,5 @@
 {
-    "name": "TheMystic-Bot-MD",
+    "name": "KumikoBot-MD",
     "version": "1.0.0",
     "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
     "main": "index.js",
@@ -14,20 +14,20 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+    "homepage": "https://github.com/Alba070503/KumikoBot-MD",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "Alba070503"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/Alba070503/KumikoBot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/Alba070503/KumikoBot-MD.ssues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:BrunoSobrino/baileys",
+        "@adiwajshing/baileys": "github:Alba070503/baileys",
         "@bochilteam/scraper": "^3.0.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "acrcloud": "^1.4.0",
