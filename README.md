@@ -1,7 +1,7 @@
 # `🧿 Kumiko- 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/59175673399" target="blank"><img src="https://img.shields.io/badge/Alba070503_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59177601773" target="blank"><img src="https://img.shields.io/badge/Alba070503_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a ef f="http://wa.me/59169082575" target="blank"><img src="https://img.shields.io/badge/Bot_Oficial_Kumiko-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
